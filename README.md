@@ -10,7 +10,7 @@
 <br/>
 
 <!-- ✦ ORBITRON TYPING — SPACE CONSOLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=19&pause=1500&color=9D4EDD&background=00000000&center=true&vCenter=true&random=false&width=700&height=50&lines=🌌+Somewhere+between+Delhi+and+the+Andromeda+Galaxy...;⭐+400+Billion+Stars.+Infinite+Lines+of+Code.;🚀+Final+Year+BCA+%7C+MERN+Stack+Explorer;🪐+Compiling+Dreams+into+Full-Stack+Apps;💫+One+Commit+Closer+to+the+Event+Horizon;🛸+Open+to+Internships+%26+Cosmic+Collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=9D4EDD&background=00000000&center=true&vCenter=true&random=false&width=700&height=50&lines=🌌+Somewhere+between+Delhi+and+Andromeda...;⭐+400+Billion+Stars.+Infinite+Lines+of+Code.;🚀+Final+Year+BCA+%7C+MERN+Stack+Explorer;🪐+Compiling+Dreams+into+Full-Stack+Apps;💫+One+Commit+Closer+to+the+Event+Horizon;🛸+Open+to+Internships+%26+Cosmic+Collabs" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,8 +23,6 @@
 
 <!-- ✦ COSMIC COUNTERS -->
 <img src="https://komarev.com/ghpvc/?username=Pro472&label=🛸+COSMIC+VISITORS&color=9D4EDD&style=for-the-badge&labelColor=03001C"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Pro472?label=⭐+STAR+FOLLOWERS&style=for-the-badge&color=00B4D8&labelColor=03001C"/>
 &nbsp;
 <img src="https://img.shields.io/badge/☕_CHAI-∞_CONSUMED-F4A261?style=for-the-badge&labelColor=03001C"/>
 
@@ -102,41 +100,9 @@ class CosmicDeveloper:
 
 ## 🪐 &nbsp;`[ TECH_CONSTELLATION :: WEAPONS_ARRAY ]`
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-9764-5654e545f9c7.gif" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa0cc7b4e.gif" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="90"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,git,github,vscode,vercel,postman&theme=dark&perline=8" />
 
-<br/><br/>
-
-### ✦ &nbsp; STELLAR FRONTEND &nbsp; ✦
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/CSS3-00B4D8?style=for-the-badge&logo=css3&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=03001C&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=03001C&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/Next.js-E0FBFC?style=for-the-badge&logo=nextdotjs&logoColor=03001C&labelColor=03001C"/>
-
-<br/><br/>
-
-### ✦ &nbsp; DARK MATTER BACKEND &nbsp; ✦
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/Express.js-9D4EDD?style=for-the-badge&logo=express&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=03001C&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/MySQL-00B4D8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/PHP-9D4EDD?style=for-the-badge&logo=php&logoColor=white&labelColor=03001C"/>
-
-<br/><br/>
-
-### ✦ &nbsp; GRAVITATIONAL TOOLS &nbsp; ✦
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/GitHub-E0FBFC?style=for-the-badge&logo=github&logoColor=03001C&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/VS_Code-00B4D8?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/Vercel-E0FBFC?style=for-the-badge&logo=vercel&logoColor=03001C&labelColor=03001C"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=03001C"/>
+<br/>
 
 </div>
 
@@ -249,8 +215,12 @@ class CosmicDeveloper:
 
 </td>
 </tr>
+
+</table>
+
+<table align="center" width="55%" border="0">
 <tr>
-<td width="50%" valign="top" align="center">
+<td valign="top" align="center">
 
 ### 💘 &nbsp; LOVE QUEST RPG
 ```
@@ -258,24 +228,10 @@ class CosmicDeveloper:
 │  MISSION STATUS : ✅ COMPLETE   │
 │  STACK   : Vanilla JS + Canvas  │
 │  TYPE    : Pixel Art RPG Game   │
-│  PHASE   : Open Source          │
+│  PHASE   : Open Source 🌌       │
 └─────────────────────────────────┘
 ```
 *A 3-level game. One real story.*
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🎯 &nbsp; PATREON CLONE
-```
-┌─────────────────────────────────┐
-│  MISSION STATUS : 🔵 INCOMING   │
-│  STACK   : MERN Full Stack      │
-│  TYPE    : Creator Economy App  │
-│  PHASE   : Major BCA Project    │
-└─────────────────────────────────┘
-```
-*The final boss. Full-stack. Full-send.*
 
 </td>
 </tr>
@@ -337,18 +293,6 @@ class CosmicDeveloper:
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/◈_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03001C"/>
-</a>&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER">
-<img src="https://img.shields.io/badge/◈_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=03001C"/>
-</a>&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/◈_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03001C"/>
-</a>&nbsp;
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/◈_Portfolio-9D4EDD?style=for-the-badge&logo=firefox&logoColor=white&labelColor=03001C"/>
-</a>&nbsp;
-<a href="https://instagram.com/YOUR-INSTAGRAM">
-<img src="https://img.shields.io/badge/◈_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=03001C"/>
 </a>
 
 <br/><br/>
