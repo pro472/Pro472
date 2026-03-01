@@ -10,7 +10,7 @@
 <br/>
 
 <!-- ✦ ORBITRON TYPING — SPACE CONSOLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=9D4EDD&background=00000000&center=true&vCenter=true&random=false&width=700&height=50&lines=🌌+Somewhere+between+Delhi+and+Andromeda...;⭐+400+Billion+Stars.+Infinite+Lines+of+Code.;🚀+Final+Year+BCA+%7C+MERN+Stack+Explorer;🪐+Compiling+Dreams+into+Full-Stack+Apps;💫+One+Commit+Closer+to+the+Event+Horizon;🛸+Open+to+Internships+%26+Cosmic+Collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1500&color=9D4EDD&background=00000000&center=true&vCenter=true&random=false&width=700&height=50&lines=Somewhere+between+Delhi+and+Andromeda...;400+Billion+Stars.+Infinite+Lines+of+Code.;Final+Year+BCA+%7C+MERN+Stack+Explorer;Compiling+Dreams+into+Full-Stack+Apps;One+Commit+Closer+to+the+Event+Horizon;Open+to+Internships+%26+Cosmic+Collabs" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -127,12 +127,12 @@ class CosmicDeveloper:
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro472&show_icons=true&theme=transparent&hide_border=false&count_private=true&bg_color=03001C&title_color=9D4EDD&icon_color=00B4D8&text_color=E0FBFC&border_color=9D4EDD&border_radius=16" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Pro472&theme=transparent&hide_border=false&background=03001C&stroke=9D4EDD&ring=00B4D8&fire=F4A261&currStreakLabel=9D4EDD&sideLabels=E0FBFC&dates=9D4EDD&border=9D4EDD&border_radius=16" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=03001C&title_color=9D4EDD&icon_color=00B4D8&text_color=E0FBFC&border_radius=16" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pro472&theme=tokyonight&hide_border=true&background=03001C&stroke=9D4EDD&ring=00B4D8&fire=F4A261&currStreakLabel=9D4EDD&sideLabels=E0FBFC&dates=888888&border_radius=16" />
 
 <br/><br/>
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro472&layout=compact&theme=transparent&hide_border=false&bg_color=03001C&title_color=9D4EDD&text_color=E0FBFC&langs_count=8&border_color=9D4EDD&border_radius=16" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro472&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=9D4EDD&text_color=E0FBFC&langs_count=8&border_radius=16" />
 
 <br/><br/>
 
@@ -159,7 +159,7 @@ class CosmicDeveloper:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pro472&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pro472&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
 
 </div>
 
@@ -297,7 +297,7 @@ class CosmicDeveloper:
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656952-5470a966-fd78-4e79-b1ef-e7b517440374.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
 
 <br/>
 
@@ -315,7 +315,7 @@ class CosmicDeveloper:
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=2500&color=9D4EDD&center=true&vCenter=true&random=false&width=550&lines=⭐+Star+my+repos+if+they+helped+you;🌌+The+universe+is+written+in+JavaScript;🛸+Let's+build+something+out+of+this+world;💫+See+you+at+the+event+horizon" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=2500&color=9D4EDD&center=true&vCenter=true&random=false&width=550&lines=Star+my+repos+if+they+helped+you;The+universe+is+written+in+JavaScript;Lets+build+something+out+of+this+world;See+you+at+the+event+horizon" alt="Footer Typing" />
 
 <br/><br/>
 
