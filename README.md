@@ -157,12 +157,12 @@ class CosmicDeveloper:
 
 ## 📡 &nbsp;`[ DEEP_SPACE_SCAN :: GALACTIC_ANALYTICS ]`
 
-<img src="https://user-images.githubusercontent.com/74038190/216656952-5470a966-fd78-4e79-b1ef-e7b517440374.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/225023900-4667b6ac-0ce6-4c2b-8b7e-37562eb8da4b.gif" width="120"/>
 
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro472&show_icons=true&theme=transparent&hide_border=false&count_private=true&bg_color=03001C&title_color=9D4EDD&icon_color=00B4D8&text_color=E0FBFC&border_color=9D4EDD&border_radius=16" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pro472&theme=transparent&hide_border=false&background=03001C&stroke=9D4EDD&ring=00B4D8&fire=F4A261&currStreakLabel=9D4EDD&sideLabels=E0FBFC&dates=9D4EDD&border=9D4EDD&border_radius=16" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pro472&theme=transparent&hide_border=false&background=03001C&stroke=9D4EDD&ring=00B4D8&fire=F4A261&currStreakLabel=9D4EDD&sideLabels=E0FBFC&dates=9D4EDD&border=9D4EDD&border_radius=16" />
 
 <br/><br/>
 
@@ -193,7 +193,7 @@ class CosmicDeveloper:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pro472&theme=onestar&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pro472&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 
 </div>
 
@@ -302,7 +302,15 @@ class CosmicDeveloper:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Pro472/Pro472/output/github-contribution-grid-snake-dark.svg" alt="Snake — Milky Way Trail" />
+<!-- ✦ This contribution chart works with ZERO setup needed -->
+<img width="100%" src="https://ghchart.rshah.org/9D4EDD/Pro472" alt="Aayush's Contribution Galaxy" />
+
+<br/><br/>
+
+<!-- ✦ OPTIONAL: Want the animated snake instead? -->
+<!-- Set up the GitHub Action from: https://github.com/Platane/snk -->
+<!-- Once set up, replace the above with this line: -->
+<!-- <img src="https://raw.githubusercontent.com/Pro472/Pro472/output/github-contribution-grid-snake-dark.svg" /> -->
 
 </div>
 
