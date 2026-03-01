@@ -127,12 +127,12 @@ class CosmicDeveloper:
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=03001C&title_color=9D4EDD&icon_color=00B4D8&text_color=E0FBFC&border_radius=16" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pro472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=03001C&title_color=9D4EDD&icon_color=00B4D8&text_color=E0FBFC&border_radius=16&cache_seconds=1800" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Pro472&theme=tokyonight&hide_border=true&background=03001C&stroke=9D4EDD&ring=00B4D8&fire=F4A261&currStreakLabel=9D4EDD&sideLabels=E0FBFC&dates=888888&border_radius=16" />
 
 <br/><br/>
 
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro472&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=9D4EDD&text_color=E0FBFC&langs_count=8&border_radius=16" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pro472&layout=compact&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=9D4EDD&text_color=E0FBFC&langs_count=8&border_radius=16&cache_seconds=1800" />
 
 <br/><br/>
 
@@ -150,16 +150,29 @@ class CosmicDeveloper:
 <br/>
 
 <!-- ████████████████████████████████████████████████████████████ -->
-<!--              🏆  STELLAR ACHIEVEMENT VAULT                  -->
+<!--              ⚡  CURRENTLY LEVELLING UP                     -->
 <!-- ████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🌟 &nbsp;`[ MISSION_LOG :: STELLAR_ACHIEVEMENTS ]`
+## ⚡ &nbsp;`[ SKILL_MATRIX :: CURRENTLY_LEVELLING_UP ]`
+
+*Active transmissions from the learning sector*
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pro472&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
+<img src="https://img.shields.io/badge/Next.js_14-Learning-9D4EDD?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-Learning-00ED64?style=for-the-badge&logo=mongodb&logoColor=03001C&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/React_18-Sharpening-61DAFB?style=for-the-badge&logo=react&logoColor=03001C&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/Node.js-Deepening-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=03001C"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-Strong-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/CSS3-Strong-00B4D8?style=for-the-badge&logo=css3&logoColor=white&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/JavaScript-Strong-F7DF1E?style=for-the-badge&logo=javascript&logoColor=03001C&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/PHP-Experienced-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=03001C"/>
+<img src="https://img.shields.io/badge/MySQL-Experienced-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=03001C"/>
 
 </div>
 
